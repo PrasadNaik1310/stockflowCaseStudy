@@ -2,6 +2,8 @@
 
 This repository contains my solution to the StockFlow backend case study.
 
+## CASE STUDY LINK https://docs.google.com/document/d/1JilL_F5TBYKjHYwNpnVoA4EaP7xOt6frbE9uLKztl6o/edit?usp=sharing 
+
 ## What I focused on
 
 - Fixing correctness issues in the given API
