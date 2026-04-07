@@ -1,10 +1,12 @@
 
----
 
-# 2. `part2/database_design.md`
+
+
 
 
 # Part 2: Database Design
+
+
 
 ## Schema Overview
 

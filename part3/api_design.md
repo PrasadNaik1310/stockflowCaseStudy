@@ -26,4 +26,5 @@ def get_low_stock_alerts(company_id):
     # Apply threshold filter
     # Filter based on recent sales
     # Attach supplier info
-    pass
+    
+    I chose aggregation at query level instead of application level to reduce memory usage and improve performance for large datasets.
